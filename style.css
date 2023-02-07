@@ -70,6 +70,7 @@ html {
     width: 180px;
     transition: ease 0.3s;
     letter-spacing: 5px;
+    
 }
 
 .nav-list-members-buttons:hover {
@@ -96,7 +97,7 @@ html {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-
+    border-top-left-radius: ;
 }
 
 #img-manguetown-main {
@@ -284,8 +285,8 @@ input{
 
 .contacts{
     position: absolute;
-    right: 60vw;
-    bottom: 30px;
+    left: 50vw;
+    bottom: 6vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
